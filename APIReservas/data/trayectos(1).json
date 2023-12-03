@@ -1,0 +1,26 @@
+[
+  {
+    "costo": 120000,
+    "duracion": "PT45M",
+    "origen": "Manizales",
+    "destino": "Medellín"
+  },
+  {
+    "costo": 199999,
+    "duracion": "PT50M",
+    "origen": "Medellín",
+    "destino": "Manizales"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT1H15M",
+    "origen": "Cali",
+    "destino": "Bucaramanga"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT1H15M",
+    "origen": "Bucaramanga",
+    "destino": "Cali"
+  }
+]

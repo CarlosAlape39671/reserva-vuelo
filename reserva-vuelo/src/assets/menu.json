@@ -1,0 +1,7 @@
+[
+    { "id" : "reservas", "text": "Reservas" },
+    { "id" : "vuelos", "text": "Vuelos" },
+    { "id" : "usuario", "text": "Usuarios" },
+    { "id" : "acerca", "text": "Acerca de" },
+    { "id" : "ofertas", "text": "Ofertas" }
+]

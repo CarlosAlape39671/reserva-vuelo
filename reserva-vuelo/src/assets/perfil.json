@@ -1,0 +1,5 @@
+[
+    { "value" : "CLIENTE", "text": "Cliente" },
+    { "value" : "AUXILIAR", "text": "Auxiliar" },
+    { "value" : "ADMINISTRADOR", "text": "Administrador" }
+]

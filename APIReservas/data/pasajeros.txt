@@ -1,0 +1,15 @@
+                          LISTADO DE PASAJEROS
+------------------------------------------------------------------------
+IDENT.     NOMBRE              APELLIDO
+------------------------------------------------------------------------
+101        Mafe                 Hernandez
+202        Manu                 Carvajal
+303        Natalia              Ceballos
+404        Melody               Ceballos
+505        Yuliana              Osorio
+606        Jairo                Hernandez
+707        Mayra                Correa
+808        Ana                  Franco
+909        Luisa                Diaz
+1001       Isabella             Torres
+------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+[{
+  "trayecto": {
+    "costo": 120000,
+    "duracion": "PT45M",
+    "origen": "Manizales",
+    "destino": "Medellín"
+  },
+  "cancelado": false,
+  "fechaHora": "2022-09-12T22:19",
+  "avion": {
+    "matricula": "HK2005",
+    "modelo": "Boeing 737"
+  }
+}]

@@ -1,0 +1,106 @@
+[
+  {
+    "apellidos": "Gómez Mujica",
+    "identificacion": "P0001",
+    "nombres": "Paula Andrea"
+  },
+  {
+    "matricula": "HK2005",
+    "modelo": "Airbus 330"
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "strUbicacion": "VENTANA",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Airbus 330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "VINO",
+    "menu": "FILETE_DE_PESCADO",
+    "strUbicacion": "VENTANA",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Airbus 330"
+    },
+    "disponible": true
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT45M",
+    "destino": "Medellín",
+    "origen": "Manizales"
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2022-09-12T22:19:25.151863",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Airbus 330"
+    }
+  },
+  {
+    "usuario": {
+      "apellidos": "Gómez Mujica",
+      "identificacion": "P0001",
+      "nombres": "Paula Andrea"
+    },
+    "cancelada": false,
+    "fechaHora": "2022-09-15T06:33:35.449360"
+  },
+  {
+    "checkIn": false,
+    "reserva": {
+      "usuario": {
+        "apellidos": "Gómez Mujica",
+        "identificacion": "P0001",
+        "nombres": "Paula Andrea"
+      },
+      "cancelada": false,
+      "fechaHora": "2022-09-15T06:33:35.449360"
+    },
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-09-12T22:19:25.151863",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Airbus 330"
+      }
+    },
+    "silla": {
+      "posicion": "01A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "VINO",
+      "menu": "FILETE_DE_PESCADO",
+      "strUbicacion": "VENTANA",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Airbus 330"
+      },
+      "disponible": true
+    }
+  }
+]

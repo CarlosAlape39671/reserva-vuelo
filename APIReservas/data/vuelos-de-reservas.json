@@ -1,0 +1,166 @@
+[
+  {
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "origen": "Manizales",
+        "destino": "Medellín"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-09-12T22:19",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "reserva": {
+      "cancelada": false,
+      "fechaHora": "2023-05-17T13:20",
+      "usuario": {
+        "apellidos": "Méndez Díaz",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "identificacion": "P0002",
+        "nombres": "María Camila",
+        "perfil": "PASAJERO"
+      }
+    },
+    "silla": {
+      "posicion": "01A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "VINO",
+      "menu": "FILETE_DE_PESCADO",
+      "strUbicacion": "VENTANA",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  },
+  {
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "origen": "Manizales",
+        "destino": "Medellín"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-09-12T22:19",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "reserva": {
+      "cancelada": false,
+      "fechaHora": "2023-05-17T13:20",
+      "usuario": {
+        "apellidos": "Méndez Díaz",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "identificacion": "P0002",
+        "nombres": "María Camila",
+        "perfil": "PASAJERO"
+      }
+    },
+    "silla": {
+      "posicion": "01B",
+      "columna": "B",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "NINGUNO",
+      "menu": "INDEFINIDO",
+      "strUbicacion": "PASILLO",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  },
+  {
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "origen": "Manizales",
+        "destino": "Medellín"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-09-12T22:19",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "reserva": {
+      "cancelada": false,
+      "fechaHora": "2023-05-17T13:22",
+      "usuario": {
+        "apellidos": "Hurtado Cuesta",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "identificacion": "P0006",
+        "nombres": "Mónica",
+        "perfil": "PASAJERO"
+      }
+    },
+    "silla": {
+      "posicion": "07A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 7,
+      "strUbicacion": "VENTANA",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  },
+  {
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "origen": "Manizales",
+        "destino": "Medellín"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-09-12T22:19",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "reserva": {
+      "cancelada": false,
+      "fechaHora": "2023-05-17T13:22",
+      "usuario": {
+        "apellidos": "Hurtado Cuesta",
+        "password": "202cb962ac59075b964b07152d234b70",
+        "identificacion": "P0006",
+        "nombres": "Mónica",
+        "perfil": "PASAJERO"
+      }
+    },
+    "silla": {
+      "posicion": "07B",
+      "columna": "B",
+      "ubicacion": "CENTRAL",
+      "fila": 7,
+      "strUbicacion": "CENTRAL",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  }
+]

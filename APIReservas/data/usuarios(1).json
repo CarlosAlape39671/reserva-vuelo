@@ -1,0 +1,114 @@
+[
+  {
+    "apellidos": "Ruiz Duque",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0001",
+    "nombres": "Carolina",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Méndez Díaz",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0002",
+    "nombres": "María Camila",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Cuesta Iglesias",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0004",
+    "nombres": "Carlos Alberto",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Hurtado Cuesta",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0006",
+    "nombres": "Mónica",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Quintero Gutiérrez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0007",
+    "nombres": "Ana María",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Mejía Gutiérrez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0008",
+    "nombres": "Carlos Andrés",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Cuesta Román",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0009",
+    "nombres": "María Camila",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "González Díaz",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0010",
+    "nombres": "David Andrés",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "González Pérez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0011",
+    "nombres": "Juan Felipe",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "García Gómez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0101",
+    "nombres": "Angela María",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Marín Zapata",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0202",
+    "nombres": "Marco Antonio",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Uribe Forero",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0303",
+    "nombres": "Diana",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Hawkins",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0404",
+    "nombres": "David Robert",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Yourcenar",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0021",
+    "nombres": "Marguerite",
+    "perfil": "PASAJERO"
+  },
+  {
+    "apellidos": "Ruiz Valencia",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0090",
+    "nombres": "Carolina",
+    "perfil": "AUXILIAR"
+  },
+  {
+    "apellidos": "Hawley",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "P0091",
+    "nombres": "Jack",
+    "perfil": "AUXILIAR"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "costo": 120000,
+    "duracion": "PT45M",
+    "id": "KRM8Y",
+    "origen": "Manizales",
+    "destino": "Medellín"
+  },
+  {
+    "costo": 199999,
+    "duracion": "PT50M",
+    "id": "YH7PJ",
+    "origen": "Medellín",
+    "destino": "Manizales"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT1H15M",
+    "id": "533GT",
+    "origen": "Cali",
+    "destino": "Bucaramanga"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT1H15M",
+    "id": "OBVF6",
+    "origen": "Bucaramanga",
+    "destino": "Cali"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT1H30M",
+    "id": "WFU9P",
+    "origen": "Bogotá",
+    "destino": "Santa Marta"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT1H30M",
+    "id": "4OLIS",
+    "origen": "Santa Marta",
+    "destino": "Bogotá"
+  },
+  {
+    "costo": 150000,
+    "duracion": "PT1H10M",
+    "id": "QT0VI",
+    "origen": "Cartagena",
+    "destino": "Bogotá"
+  },
+  {
+    "costo": 150000,
+    "duracion": "PT1H10M",
+    "id": "G8Q91",
+    "origen": "Bogotá",
+    "destino": "Cartagena"
+  },
+  {
+    "costo": 110000,
+    "duracion": "PT40M",
+    "id": "L4RJV",
+    "origen": "Bogotá",
+    "destino": "Manizales"
+  },
+  {
+    "costo": 110000,
+    "duracion": "PT40M",
+    "id": "TCCUS",
+    "origen": "Manizales",
+    "destino": "Bogotá"
+  },
+  {
+    "costo": 300000,
+    "duracion": "PT40M",
+    "id": "U7YV1",
+    "origen": "Leticia",
+    "destino": "Pasto"
+  },
+  {
+    "costo": 300000,
+    "duracion": "PT40M",
+    "id": "B3W0P",
+    "origen": "Pasto",
+    "destino": "Leticia"
+  },
+  {
+    "costo": 180000,
+    "duracion": "PT50M",
+    "id": "8KM6S",
+    "origen": "Villavicencio",
+    "destino": "Leticia"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT50M",
+    "id": "QGUTC",
+    "origen": "Leticia",
+    "destino": "Villavicencio"
+  },
+  {
+    "costo": 200000,
+    "duracion": "PT1H10M",
+    "id": "M4RJA",
+    "origen": "Acandi",
+    "destino": "Acaricuara"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT1H30M",
+    "id": "VKE01",
+    "origen": "Origen1",
+    "destino": "Destino1"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT1H15M",
+    "id": "MVDR4",
+    "origen": "Origen2",
+    "destino": "Destino2"
+  },
+  {
+    "costo": 199999,
+    "duracion": "PT50M",
+    "id": "D0NAK",
+    "origen": "Leticia",
+    "destino": "Ibagué"
+  }
+]

@@ -1,0 +1,330 @@
+// --------- Pruebas para utilizar sólo con Rest.java ---------
+
+// Ver https://www.youtube.com/watch?v=3QLcHjNp-08 para más información
+
+### prueba del primer constructor de StandardResponse
+GET http://localhost:4567/prueba1
+
+### prueba del segundo constructor de StandardResponse
+GET http://localhost:4567/prueba2
+
+### prueba del séptimo constructor de StandardResponse
+GET http://localhost:4567/prueba4/HK2005
+
+
+// --------- Pruebas para utilizar con AppRest.java --------- 
+
+// --------------------- USUARIOS ---------------------
+
+### Listar los usuarios
+GET http://localhost:4567/usuarios
+
+### Buscar un usuario
+GET http://localhost:4567/usuarios/U0001
+
+### Comprobar la autenticación de un usuario
+POST http://localhost:4567/usuarios/autenticar
+Content-Type: application/json; charset=utf-8
+
+{
+    "identificacion" : "U0005",
+    "password": "123"
+}
+
+### agregar un usuario
+POST http://localhost:4567/usuarios
+Content-Type: application/json; charset=utf-8
+
+{
+    "identificacion" : "U0005",
+    "nombres": "Frank",
+    "apellidos": "Baum",
+    "perfil": "CLIENTE",
+    "password": "123"
+}
+
+### agregar un usuario
+POST http://localhost:4567/usuarios
+Content-Type: application/json; charset=utf-8
+
+{
+    "identificacion" : "U0013",
+    "nombres": "Ana Milena",
+    "apellidos": "Gómez López",
+    "perfil": "AUXILIAR",
+    "password": "123"
+}
+
+### actualizar los datos de un usuario
+PUT http://localhost:4567/usuarios/U0003
+Content-Type: application/json; charset=utf-8
+
+{
+    "nombres": "Natalia",
+    "apellidos": "Pérez Manrique",
+    "perfil": "CLIENTE",
+    "password": "123"
+}
+
+### actualizar los datos de un usuario
+PUT http://localhost:4567/usuarios/U0003
+Content-Type: application/json; charset=utf-8
+
+{
+    "nombres": "Natalia",
+    "apellidos": "Pérez Manrique",
+    "perfil": "CLIENTE"
+}
+
+
+### eliminar un usuario
+DELETE http://localhost:4567/usuarios/U9999
+
+// -------------------- TRAYECTOS ----------------------
+
+### listar los trayectos
+GET http://localhost:4567/trayectos
+
+### buscar un trayecto
+GET http://localhost:4567/trayectos/origen=Cali&destino=Bucaramanga
+
+### crear un trayecto
+POST http://localhost:4567/trayectos
+Content-Type: application/json; charset=utf-8
+
+{
+    "origen": "bbb",
+    "destino": "ccc",
+    "costo": 180000,
+    "duracion": "PT50M"
+}
+
+### actualizar un trayecto
+PUT http://localhost:4567/trayectos/D0NAK
+Content-Type: application/json; charset=utf-8
+
+{
+    "origen": "Leticia",
+    "destino": "Ibagué",
+    "costo": 199999,
+    "duracion": "PT50M"
+}
+
+### eliminar un trayecto
+DELETE http://localhost:4567/trayectos/KRM8Y
+
+### eliminar un trayecto
+DELETE http://localhost:4567/trayectos/origen=Cali&destino=Bucaramanga
+
+// -------------------- AVIONES ----------------------
+
+### Generar un data que contiene un array JSON de instancias de aviones sólo con matrícula y modelo
+GET http://localhost:4567/aviones
+
+
+### Generar un JSON los datos del avión con la matrícula dada
+GET http://localhost:4567/aviones/HK2005
+
+### Actualizar el modelo del avión con la matrícula dada (Ver el apartado sillas si quiere redefinir los asientos)
+PUT http://localhost:4567/aviones/HK2005
+Content-Type: application/json; charset=utf-8
+
+{
+    "modelo": "Boeing 737"
+}
+
+### Agregar un avión
+POST http://localhost:4567/aviones
+Content-Type: application/json; charset=utf-8
+
+{
+    "matricula" : "HK4040",
+    "modelo" : "Airbus A321XLR"
+}
+
+### eliminar un avión (si el avión tiene sillas o está en vuelos, no permitir la acción)
+DELETE http://localhost:4567/aviones/HK2023
+
+// -------------------- SILLAS ----------------------
+
+### listar las sillas
+GET http://localhost:4567/sillas
+
+### buscar una silla por ID (económica)
+GET http://localhost:4567/sillas/YEK2K
+
+### buscar una silla por ID (ejecutiva)
+GET http://localhost:4567/sillas/RG9MC
+
+### listar las sillas de un avión
+GET http://localhost:4567/sillas/select/HK2005
+
+### buscar una silla ejecutiva de un avión
+GET http://localhost:4567/sillas/buscar/fila=1&columna=C&avion=HK2005
+
+### listar para cada avión el total de sillas ejecutivas y económicas
+GET http://localhost:4567/sillas/total
+
+/*
+    Con la instrucción anterior se obtiene un array de objetos como este:
+    [
+        {
+            "matricula": "HK2005",
+            "modelo": "Boeing 737",
+            "totalSillas": {
+                "ejecutivas": 12,
+                "economicas": 42
+            }
+        },
+        ...
+    ]
+*/
+
+### conocer el número de sillas de un avión
+GET http://localhost:4567/sillas/avion/HK2005
+
+/*
+    Ejemplo de lo que se obtiene con la instrucción anterior
+
+    {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737",
+      "totalSillas": {
+        "ejecutivas": 12,
+        "economicas": 42
+      },
+    }
+*/
+
+### buscar una silla por ID
+GET http://localhost:4567/sillas/YZWSK
+
+
+### agregar las sillas de un avión
+POST http://localhost:4567/sillas
+Content-Type: application/json; charset=utf-8
+
+{
+    "avion": "HK8889",
+    "filasEjecutivas": 4,
+    "totalSillas": 41
+}
+
+### actualizar el menú o el licor o el estado de disponibilidad de una silla
+PUT http://localhost:4567/sillas/N8VWC
+Content-Type: application/json; charset=utf-8
+
+{
+    "disponible": false,
+    "menu": "POLLO_A_LA_NARANJA",
+    "licor": "OPORTO"
+}
+
+### Actualizar todos los datos de un avión
+PUT http://localhost:4567/sillas/avion/HK4040
+content-type: application/json
+
+{
+    "modelo": "Boeing 777",
+    "filasEjecutivas": 3,
+    "totalSillas": 36
+}
+
+### Eliminar la silla de un avión
+DELETE http://localhost:4567/sillas/20U3O
+
+### Eliminar las sillas de un avión
+DELETE http://localhost:4567/sillas/avion/HK8889
+
+// -------------------- VUELOS ----------------------
+
+### listar vuelos
+GET http://localhost:4567/vuelos
+
+### buscar un vuelo
+GET http://localhost:4567/vuelos/1J1WV
+
+### buscar vuelos a partir de una fecha con un origen y un destino determinado
+GET http://localhost:4567/vuelos/select/fechaHora=2022-01-01T00:00&origen=Manizales&destino=Medellín
+
+### agregar vuelos
+POST http://localhost:4567/vuelos
+Content-Type: application/json; charset=utf-8
+
+{
+    "fechaHora": "2023-06-20T22:19:25.151863",
+    "idTrayecto": "M4RJA",
+    "matriculaAvion": "HK2008"
+}
+
+### cambiar uno o varios de los datos de un vuelo, dado su ID
+PUT http://localhost:4567/vuelos/REL7H
+Content-Type: application/json; charset=utf-8
+
+{
+    "fechaHora": "2023-07-18T22:16:30",
+    "idTrayecto": "8KM6S",
+    "idAvion": "HK2008",
+    "estado": "CANCELADO"
+}
+
+### Actualizar todos los datos de un avión
+PUT http://localhost:4567/sillas/avion/HK6767
+content-type: application/json
+
+{
+    "modelo": "Boeing 777",
+    "ejecutivas": 12,
+    "economicas": 36
+}
+
+### eliminar un vuelo
+DELETE http://localhost:4567/vuelos/6RIOE
+
+// -------------------- RESERVAS ----------------------
+
+### Listar reservas
+GET http://localhost:4567/reservas
+
+### Buscar una reserva
+GET http://localhost:4567/reservas/idReserva
+
+### Buscar las reservas de un usuario
+GET http://localhost:4567/reservas/usuario/idCliente
+
+### Total de reservas de un usuario
+GET http://localhost:4567/reservas/usuario/total/U0002
+
+### Sillas reservadas en un vuelo
+GET http://localhost:4567/reservas/reservadas/8SPEX
+
+### Sillas disponibles en un vuelo
+GET http://localhost:4567/reservas/disponibles/8SPEX
+
+### agregar una reserva (en vuelos con fecha igual o superior a la actual)
+POST http://localhost:4567/reservas
+Content-Type: application/json; charset=utf-8
+
+{
+    "idUsuario": "...",
+    "idVuelo": "...",
+    "idSilla": "...",
+    "menu": "...",
+    "licor": "..."
+}
+
+### actualizar uno o varios de los datos de una reserva
+PUT http://localhost:4567/reservas/idReserva
+Content-Type: application/json; charset=utf-8
+
+{
+    "idVuelo": "...",
+    "idSilla": "...",
+    "menu": "...",
+    "licor": "...",
+    "checkIn": true|false,
+    "cancelada": true
+}
+
+### eliminar una reserva
+DELETE http://localhost:4567/reservas/idReserva

@@ -1,0 +1,25 @@
+                          LISTADO DE TRAYECTOS
+------------------------------------------------------------------------
+ORIGEN           DESTINO            DUR.  PRECIO
+------------------------------------------------------------------------
+Manizales      Medellin           659900  01:15
+Medellin       Manizales          659900  01:15
+Pereira        Cartagena          759999  01:45
+Cartagena      Pereira            759999  01:45
+Cali           Santa Marta        645987  01:55
+Santa Marta    Cali               645987  01:55
+Meta           Armenia            150999  00:54
+Armenia        Meta               150999  00:54
+Medellin       Pereira            180000  00:45
+Pereira        Medellin           180000  00:45
+Buena Aventura Arauca             425999  01:15
+Arauca         Buena Aventura     425999  01:15
+Bogota         San Andres         480000  01:05
+San Andres     Bogota             480000  01:05
+Cali           Cartagena          564990  00:55
+Cartagena      Cali               564990  00:55
+Cali           Medellin           180000  00:35
+Medellin       Cali               180000  00:35
+Amazonas       Bogota             315999  01:25
+Bogota         Amazonas           315999  01:25
+------------------------------------------------------------------------

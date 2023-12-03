@@ -1,0 +1,66 @@
+[
+  {
+    "matricula": "HK2005",
+    "modelo": "Boeing 737"
+  },
+  {
+    "matricula": "HK2007",
+    "modelo": "Airbus A330"
+  },
+  {
+    "matricula": "HK2010",
+    "modelo": "Boeing 737"
+  },
+  {
+    "matricula": "HK2015",
+    "modelo": "Boeing 737"
+  },
+  {
+    "matricula": "HK2205",
+    "modelo": "Airbus 300"
+  },
+  {
+    "matricula": "HK3005",
+    "modelo": "Boeing 747"
+  },
+  {
+    "matricula": "HK5050",
+    "modelo": "Airbus 320"
+  },
+  {
+    "matricula": "HK5572",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK2008",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK8888",
+    "modelo": "Airbus A321"
+  },
+  {
+    "matricula": "HK8889",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK7777",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK7890",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK4040",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK6060",
+    "modelo": "Airbus A321XLR"
+  },
+  {
+    "matricula": "HK6767",
+    "modelo": "Boeing 777"
+  }
+]

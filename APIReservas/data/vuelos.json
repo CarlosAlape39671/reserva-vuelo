@@ -1,0 +1,322 @@
+[
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-12T22:19",
+    "id": "8XEE7",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 199999,
+      "duracion": "PT50M",
+      "id": "YH7PJ",
+      "destino": "Manizales",
+      "origen": "Medellín"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-13T06:47",
+    "id": "QCCMV",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 200000,
+      "duracion": "PT1H15M",
+      "id": "533GT",
+      "destino": "Bucaramanga",
+      "origen": "Cali"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-13T06:56",
+    "id": "4PVD6",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 200000,
+      "duracion": "PT1H15M",
+      "id": "OBVF6",
+      "destino": "Cali",
+      "origen": "Bucaramanga"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-13T06:57",
+    "id": "TT9G4",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT1H30M",
+      "id": "WFU9P",
+      "destino": "Santa Marta",
+      "origen": "Bogotá"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-13T06:59",
+    "id": "1J1WV",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT1H30M",
+      "id": "4OLIS",
+      "destino": "Bogotá",
+      "origen": "Santa Marta"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-09-13T07:03",
+    "id": "DF1WV",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 150000,
+      "duracion": "PT1H10M",
+      "id": "QT0VI",
+      "destino": "Bogotá",
+      "origen": "Cartagena"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-10-25T22:19",
+    "id": "C1X2F",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 150000,
+      "duracion": "PT1H10M",
+      "id": "G8Q91",
+      "destino": "Cartagena",
+      "origen": "Bogotá"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-11-01T15:30",
+    "id": "MGZLD",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 110000,
+      "duracion": "PT40M",
+      "id": "L4RJV",
+      "destino": "Manizales",
+      "origen": "Bogotá"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2022-12-25T22:19",
+    "id": "8SPEX",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 180000,
+      "duracion": "PT50M",
+      "id": "8KM6S",
+      "destino": "Leticia",
+      "origen": "Villavicencio"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-01-28T10:20",
+    "id": "TLOUS",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 180000,
+      "duracion": "PT50M",
+      "id": "8KM6S",
+      "destino": "Leticia",
+      "origen": "Villavicencio"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-01-22T10:10",
+    "id": "FVFW5",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 180000,
+      "duracion": "PT50M",
+      "id": "8KM6S",
+      "destino": "Leticia",
+      "origen": "Villavicencio"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T22:16",
+    "id": "0X755",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-17T00:33",
+    "id": "ZWRD9",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T18:30",
+    "id": "S862G",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T18:15",
+    "id": "D3479",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T19:59",
+    "id": "JNTEC",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT45M",
+      "id": "KRM8Y",
+      "destino": "Medellín",
+      "origen": "Manizales"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T20:02",
+    "id": "0I1JW",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 150000,
+      "duracion": "PT1H10M",
+      "id": "QT0VI",
+      "destino": "Bogotá",
+      "origen": "Cartagena"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-18T19:15",
+    "id": "2TZVM",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 300000,
+      "duracion": "PT40M",
+      "id": "U7YV1",
+      "destino": "Pasto",
+      "origen": "Leticia"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-06-17T21:31",
+    "id": "X0G1T",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 300000,
+      "duracion": "PT40M",
+      "id": "U7YV1",
+      "destino": "Pasto",
+      "origen": "Leticia"
+    },
+    "estado": "PROGRAMADO",
+    "fechaHora": "2023-05-31T16:30",
+    "id": "D8POI",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    }
+  }
+]

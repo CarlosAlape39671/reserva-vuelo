@@ -1,0 +1,91 @@
+/* Paleta de colores: https://paletton.com/#uid=34d0u0kuiiUvNtru4nlwudexs7O */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+.home {
+    font-weight: 700;
+    font-size: 30px;
+    width: fit-content;
+    float: left;
+    text-align: left;
+    font-family: 'Vina Sans', sans-serif;
+    margin-top: -6px;
+}
+
+nav {
+    /* background-image: linear-gradient(to bottom right, #040F2A, #123A9D); */
+    background-image: linear-gradient(to bottom right, #0D052B, #3414A2);
+    color: rgb(255, 251, 251);
+    padding: 35px 20px;
+    font-size: 20px;
+
+}
+
+nav ul {
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    margin-top: 9px;
+    margin-left: -40px;
+}
+
+:host ::ng-deep nav > ul > li:first-child {
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 251, 251);
+}
+
+:host ::ng-deep .list-item {
+    width: 100%;
+    padding: 10px;
+}
+
+:host ::ng-deep .list-item:hover {
+    cursor: pointer;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.hide {
+    display: none;
+}
+
+
+@media (min-width: 768px) {
+
+    /* --- navbar --- */
+    
+    nav ul {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .top {
+        margin-top: 0;
+    }
+
+    :host ::ng-deep .list-item {
+        margin-left: 20px;
+        width: fit-content;
+        padding: 0;
+    }
+
+    nav > ul > li:first-child {
+        display: none;
+    }
+
+    .hide {
+        display: flex;
+    }
+
+}

@@ -1,0 +1,958 @@
+[
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Ruiz Duque",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0001",
+      "nombres": "Carolina",
+      "perfil": "CLIENTE"
+    },
+    "id": "PKDHC",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "id": "KRM8Y",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-12T22:19",
+      "id": "8XEE7",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "VINO",
+      "id": "8SHA5",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Méndez Díaz",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0002",
+      "nombres": "María Camila",
+      "perfil": "CLIENTE"
+    },
+    "id": "DIYHR",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT50M",
+        "id": "YH7PJ",
+        "destino": "Manizales",
+        "origen": "Medellín"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:47",
+      "id": "QCCMV",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      }
+    },
+    "silla": {
+      "posicion": "08C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 8,
+      "id": "YTC9F",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Cuesta Iglesias",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0004",
+      "nombres": "Carlos Alberto",
+      "perfil": "CLIENTE"
+    },
+    "id": "2CPX5",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H15M",
+        "id": "533GT",
+        "destino": "Bucaramanga",
+        "origen": "Cali"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:56",
+      "id": "4PVD6",
+      "avion": {
+        "matricula": "HK2205",
+        "modelo": "Airbus 300"
+      }
+    },
+    "silla": {
+      "posicion": "01D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "NINGUNO",
+      "id": "MAPRU",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2205",
+        "modelo": "Airbus 300"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Hurtado Cuesta",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0006",
+      "nombres": "Mónica",
+      "perfil": "CLIENTE"
+    },
+    "id": "31GVL",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H15M",
+        "id": "OBVF6",
+        "destino": "Cali",
+        "origen": "Bucaramanga"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:57",
+      "id": "TT9G4",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01B",
+      "columna": "B",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "OPORTO",
+      "id": "BHNPL",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Quintero Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0007",
+      "nombres": "Ana María",
+      "perfil": "CLIENTE"
+    },
+    "id": "50NQL",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H30M",
+        "id": "WFU9P",
+        "destino": "Santa Marta",
+        "origen": "Bogotá"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:59",
+      "id": "1J1WV",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "WHISKEY",
+      "id": "8OCHX",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Mejía Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0008",
+      "nombres": "Carlos Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "WQ8KO",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H30M",
+        "id": "4OLIS",
+        "destino": "Bogotá",
+        "origen": "Santa Marta"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T07:03",
+      "id": "DF1WV",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      }
+    },
+    "silla": {
+      "posicion": "09F",
+      "columna": "F",
+      "ubicacion": "VENTANA",
+      "fila": 9,
+      "id": "FNJIS",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Cuesta Román",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0009",
+      "nombres": "María Camila",
+      "perfil": "CLIENTE"
+    },
+    "id": "YFUSI",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H10M",
+        "id": "QT0VI",
+        "destino": "Bogotá",
+        "origen": "Cartagena"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-10-25T22:19",
+      "id": "C1X2F",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      }
+    },
+    "silla": {
+      "posicion": "08A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 8,
+      "id": "U8C72",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "González Díaz",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0010",
+      "nombres": "David Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "070Q9",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H10M",
+        "id": "G8Q91",
+        "destino": "Cartagena",
+        "origen": "Bogotá"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-11-01T15:30",
+      "id": "MGZLD",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "NINGUNO",
+      "id": "5IS43",
+      "menu": "INDEFINIDO",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "González Pérez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0011",
+      "nombres": "Juan Felipe",
+      "perfil": "CLIENTE"
+    },
+    "id": "CTH3V",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT40M",
+        "id": "L4RJV",
+        "destino": "Manizales",
+        "origen": "Bogotá"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-12-25T22:19",
+      "id": "8SPEX",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "NINGUNO",
+      "id": "33WDK",
+      "menu": "INDEFINIDO",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Ruiz Duque",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0001",
+      "nombres": "Carolina",
+      "perfil": "CLIENTE"
+    },
+    "id": "OLYS6",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "id": "KRM8Y",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-12T22:19",
+      "id": "8XEE7",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "NINGUNO",
+      "id": "5IS43",
+      "menu": "INDEFINIDO",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Méndez Díaz",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0002",
+      "nombres": "María Camila",
+      "perfil": "CLIENTE"
+    },
+    "id": "2MOHU",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT50M",
+        "id": "YH7PJ",
+        "destino": "Manizales",
+        "origen": "Medellín"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:47",
+      "id": "QCCMV",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      }
+    },
+    "silla": {
+      "posicion": "02D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "3SAPX",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Cuesta Iglesias",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0004",
+      "nombres": "Carlos Alberto",
+      "perfil": "CLIENTE"
+    },
+    "id": "H4IF7",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H15M",
+        "id": "533GT",
+        "destino": "Bucaramanga",
+        "origen": "Cali"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:56",
+      "id": "4PVD6",
+      "avion": {
+        "matricula": "HK2205",
+        "modelo": "Airbus 300"
+      }
+    },
+    "silla": {
+      "posicion": "02D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "CS07Y",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2205",
+        "modelo": "Airbus 300"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Hurtado Cuesta",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0006",
+      "nombres": "Mónica",
+      "perfil": "CLIENTE"
+    },
+    "id": "05KPT",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H15M",
+        "id": "OBVF6",
+        "destino": "Cali",
+        "origen": "Bucaramanga"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:57",
+      "id": "TT9G4",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "02D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "XAKPR",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Quintero Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0007",
+      "nombres": "Ana María",
+      "perfil": "CLIENTE"
+    },
+    "id": "F1GST",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H30M",
+        "id": "WFU9P",
+        "destino": "Santa Marta",
+        "origen": "Bogotá"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:59",
+      "id": "1J1WV",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "02D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "6OKHB",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Mejía Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0008",
+      "nombres": "Carlos Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "8MOLI",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H30M",
+        "id": "4OLIS",
+        "destino": "Bogotá",
+        "origen": "Santa Marta"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T07:03",
+      "id": "DF1WV",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      }
+    },
+    "silla": {
+      "posicion": "09E",
+      "columna": "E",
+      "ubicacion": "CENTRAL",
+      "fila": 9,
+      "id": "JJLGT",
+      "avion": {
+        "matricula": "HK3005",
+        "modelo": "Boeing 747"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Cuesta Román",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0009",
+      "nombres": "María Camila",
+      "perfil": "CLIENTE"
+    },
+    "id": "52S03",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H10M",
+        "id": "QT0VI",
+        "destino": "Bogotá",
+        "origen": "Cartagena"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-10-25T22:19",
+      "id": "C1X2F",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      }
+    },
+    "silla": {
+      "posicion": "09B",
+      "columna": "B",
+      "ubicacion": "CENTRAL",
+      "fila": 9,
+      "id": "QM51R",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "García Gómez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0101",
+      "nombres": "Angela María",
+      "perfil": "CLIENTE"
+    },
+    "id": "R6S2Y",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H10M",
+        "id": "QT0VI",
+        "destino": "Bogotá",
+        "origen": "Cartagena"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-10-25T22:19",
+      "id": "C1X2F",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      }
+    },
+    "silla": {
+      "posicion": "01A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "OPORTO",
+      "id": "IPURY",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Cuesta Iglesias",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0004",
+      "nombres": "Carlos Alberto",
+      "perfil": "CLIENTE"
+    },
+    "id": "NB21I",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H15M",
+        "id": "OBVF6",
+        "destino": "Cali",
+        "origen": "Bucaramanga"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:57",
+      "id": "TT9G4",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01C",
+      "columna": "C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "VINO",
+      "id": "O5836",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2015",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Ruiz Duque",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0001",
+      "nombres": "Carolina",
+      "perfil": "CLIENTE"
+    },
+    "id": "B7KBL",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "id": "KRM8Y",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-12T22:19",
+      "id": "8XEE7",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "WHISKEY",
+      "id": "YHP4A",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": true
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Mejía Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0008",
+      "nombres": "Carlos Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "FCHC7",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "id": "KRM8Y",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-12T22:19",
+      "id": "8XEE7",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01D",
+      "columna": "D",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "WHISKEY",
+      "id": "YHP4A",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "García Gómez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0101",
+      "nombres": "Angela María",
+      "perfil": "CLIENTE"
+    },
+    "id": "JEFE6",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT45M",
+        "id": "KRM8Y",
+        "destino": "Medellín",
+        "origen": "Manizales"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-12T22:19",
+      "id": "8XEE7",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "02A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "420FH",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "Mejía Gutiérrez",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0008",
+      "nombres": "Carlos Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "7F49P",
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT1H30M",
+        "id": "WFU9P",
+        "destino": "Santa Marta",
+        "origen": "Bogotá"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2022-09-13T06:59",
+      "id": "1J1WV",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      }
+    },
+    "silla": {
+      "posicion": "01B",
+      "columna": "B",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "VINO",
+      "id": "1SVNL",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 737"
+      },
+      "disponible": false
+    }
+  },
+  {
+    "cancelada": false,
+    "checkIn": false,
+    "usuario": {
+      "apellidos": "González Díaz",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "identificacion": "U0010",
+      "nombres": "David Andrés",
+      "perfil": "CLIENTE"
+    },
+    "id": "MJOGR",
+    "vuelo": {
+      "trayecto": {
+        "costo": 180000,
+        "duracion": "PT50M",
+        "id": "8KM6S",
+        "destino": "Leticia",
+        "origen": "Villavicencio"
+      },
+      "estado": "PROGRAMADO",
+      "fechaHora": "2023-05-18T22:16",
+      "id": "0X755",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      }
+    },
+    "silla": {
+      "posicion": "02A",
+      "columna": "A",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "OPORTO",
+      "id": "JWH6O",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2008",
+        "modelo": "Airbus A321XLR"
+      },
+      "disponible": false
+    }
+  }
+]

@@ -1,0 +1,199 @@
+### listar las sillas de un avión
+GET http://localhost:4567/sillas
+
+### buscar sillas
+GET http://localhost:4567/sillas/4&C&HK2020
+
+### buscar vuelos reserva
+GET http://localhost:4567/vuelos/2022-10-16T19:03:54.218950600&Bogota&Amazonas&HK1010
+
+### buscar vuelos
+GET http://localhost:4567/vuelos/fechaHora=2022-10-16T19:03:54.218950600&origen=Bogota&destino=Amazonas&avion=HK1010
+
+### buscar trayectos
+GET http://localhost:4567/trayectos/origen=Manizales&destino=Medellin
+
+### buscar silla
+//HK2020;4;C;PASILLO;true
+GET http://localhost:4567/sillas/fila=4&columna=C&avion=HK1010
+
+### buscar reservas
+//2022-10-16T19:18:21.998807100;101;false
+GET http://localhost:4567/reservas/fechaHora=2022-10-16T19:18:21.998807100&usuario=101
+
+### Buscar un vuelo de los tantos que puede estar asociados a una reserva
+// 2022-10-16T19:21:48.671726;303;2022-10-16T19:04:15.547410300;Manizales;Medellin;HK2020;4;E;true;false
+GET http://localhost:4567/vuelos-reservas/fechaHoraReserva=2022-10-16T19:21:48.671726&usuario=303&fechaHoraVuelo=2022-10-16T19:04:15.547410300&origen=Manizales&destino=Medellin&avion=HK2020&fila=4&columna=E
+
+### agregar un usuario
+POST http://localhost:4567/usuarios
+Content-Type: application/json
+ 
+{
+    "identificacion" : "204",
+    "nombres": "Margarita",
+    "apellidos" : "Flores"
+}
+
+### agregar un trayecto
+POST http://localhost:4567/trayectos
+Content-Type: application/json
+
+{
+    "origen": "Manzanares",
+    "destino": "Leticia",
+    "costo": 200000,
+    "duracion": "PT50M"
+}
+
+### agregar un avion
+POST http://localhost:4567/aviones
+Content-Type: application/json
+
+{ "matricula": "HK2", "modelo": "Air 333" }
+
+### agregar sillas a un avion
+POST http://localhost:4567/sillas
+Content-Type: application/json
+
+{ "avion": "HK2008", "ejecutivas": 16, "economicas": 42 }
+
+### agregar vuelos
+POST http://localhost:4567/vuelos
+Content-Type: application/json
+
+{
+    "fechaHora": "2023-11-25T22:19:25.151863",
+    "origen": "Manizales",
+    "destino": "Medellin",
+    "avion": "HK2020"
+}
+
+### agregar reservas
+POST http://localhost:4567/reservas
+Content-Type: application/json
+
+{
+    "fechaHora": "2023-10-27T06:33:35.449360",
+    "usuario": "P0020"
+}
+
+### agregar vuelos reservas
+POST http://localhost:4567/vuelos-reservas
+Content-Type: application/json
+
+{
+    "fechaHoraReserva": "2022-10-27T06:33:35.449360",
+    "usuario": "P0020",
+    "fechaHoraVuelo": "2022-11-25T22:19:25.151863",
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "avion": "HK2008",
+    "fila": 1,
+    "columna": "D",
+    "menu": "FILETE_DE_PESCADO",
+    "licor": "OPORTO"
+}
+
+### modificar los datos de un usuario
+PUT http://localhost:4567/usuarios/P0020
+content-type: application/json
+
+{
+    "identificacion": "P0020",
+    "nombres": "Danna",
+    "apellidos": "Diaz"
+}
+
+### modificar los datos de un trayecto
+PUT http://localhost:4567/trayectos
+content-type: application/json
+
+{
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "costo": 699000,
+    "duracion": "PT50M"
+}
+
+### modificar los datos de un vuelo
+PUT http://localhost:4567/vuelos
+content-type: application/json
+
+{
+    "fechaHora": "2022-11-25T22:19:25.151863",
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "avion": "HK2008",
+    "cancelado": "false"
+}
+
+### modificar los datos de un vuelo
+PUT http://localhost:4567/aviones/HK2008
+content-type: application/json
+
+{ "matricula": "HK2008", "modelo": "Air 101" }
+
+### modificar los datos de una reserva
+PUT http://localhost:4567/reservas
+content-type: application/json
+
+{
+    "fechaHora": "2022-10-27T06:33:35.449360",
+    "usuario": "P0020",
+    "cancelado": "true"
+}
+
+### modificar los datos de una reserva vuelo
+PUT http://localhost:4567/vuelos-reservas
+content-type: application/json
+
+{
+    "fechaHoraReserva": "2022-10-27T06:33:35.449360",
+    "usuario": "P0020",
+    "fechaHoraVuelo": "2022-11-25T22:19:25.151863",
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "avion": "HK2008",
+    "fila": 1,
+    "columna": "D",
+    "menu": "FILETE_DE_PESCADO",
+    "licor": "OPORTO",
+    "cancelado": "false"
+}
+
+### eliminar un usuario
+DELETE http://localhost:4567/usuarios/204
+
+### eliminar un avión
+DELETE http://localhost:4567/aviones/HK2020
+
+### eliminar un trayecto
+DELETE http://localhost:4567/trayectos/origen=Manizales&destino=Medellin
+
+### eliminar un vuelo
+DELETE http://localhost:4567/vuelos/fechaHora=2022-10-16T19:16:00.727951300&origen=Meta&destino=Armenia&avion=HK7070
+
+### eliminar una reserva
+DELETE http://localhost:4567/reservas/fechaHora=2022-10-16T19:22:50.378107900&usuario=505
+
+### Eliminar un vuelo de los tantos que puede estar asociados a una reserva
+DELETE http://localhost:4567/vuelos-reservas/fechaHoraReserva=2022-10-27T06:33&usuario=P0020&fechaHoraVuelo=2022-11-25T22:19:25.151863&origen=Pasto&destino=Leticia&avion=HK2008&fila=5&columna=B
+
+//2022-10-16T19:18:21.998807100;101;2022-10-16T19:03:54.218950600;Bogota;Amazonas;HK1010;4;B;true;false
+
+//2022-10-16T19:18;101;2022-10-16T19:17:35.333808700;Amazonas;Bogota;HK9090;1;C;true;false;POLLO_A_LA_NARANJA;VINO
+
+//2022-10-27T06:33;P0020;2022-11-25T22:19:25.151863;Pasto;Leticia;HK2008;5;B;true;false
+
+### listar para cada avión el total de sillas ejecutivas y económicas 
+GET http://localhost:4567/sillas/total
+
+### listar un avion con sus sillas
+GET http://localhost:4567/sillas/avion/HK2020
+
+### Eliminar todas las sillas del avión que se va a eliminar
+DELETE http://localhost:4567/sillas/avion/HK5565
+
+### Eliminar avion
+DELETE http://localhost:4567/aviones/HK9999

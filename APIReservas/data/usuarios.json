@@ -1,0 +1,128 @@
+[
+  {
+    "apellidos": "Ruiz Duque",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0001",
+    "nombres": "Carolina",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Méndez Díaz",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0002",
+    "nombres": "María Camila",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Cuesta Iglesias",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0004",
+    "nombres": "Carlos Alberto",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Hurtado Cuesta",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0006",
+    "nombres": "Mónica",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Quintero Gutiérrez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0007",
+    "nombres": "Ana María",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Mejía Gutiérrez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0008",
+    "nombres": "Carlos Andrés",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Cuesta Román",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0009",
+    "nombres": "María Camila",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "González Díaz",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0010",
+    "nombres": "David Andrés",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "González Pérez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0011",
+    "nombres": "Juan Felipe",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "García Gómez",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0101",
+    "nombres": "Angela María",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Marín Zapata",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0202",
+    "nombres": "Marco Antonio",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Uribe Forero",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0303",
+    "nombres": "Diana",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Hawkins",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0404",
+    "nombres": "David Robert",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Pérez Manrique",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0003",
+    "nombres": "Natalia",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Baum",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0005",
+    "nombres": "Frank",
+    "perfil": "CLIENTE"
+  },
+  {
+    "apellidos": "Fernández",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0012",
+    "nombres": "Fernando",
+    "perfil": "ADMINISTRADOR"
+  },
+  {
+    "apellidos": "Gómez López",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "identificacion": "U0013",
+    "nombres": "Ana Milena",
+    "perfil": "AUXILIAR"
+  },
+  {
+    "apellidos": "Alape Hernandez",
+    "password": "d9b1d7db4cd6e70935368a1efb10e377",
+    "identificacion": "U0015",
+    "nombres": "Carlos Enrique",
+    "perfil": "ADMINISTRADOR"
+  }
+]

@@ -1,0 +1,9402 @@
+[
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "VINO",
+    "id": "8SHA5",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "SI28C",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "5IS43",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "WHISKEY",
+    "id": "YHP4A",
+    "menu": "POLLO_A_LA_NARANJA",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "420FH",
+    "menu": "VEGETARIANO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "VR44T",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "UG48B",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "RN4NG",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "R1163",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "RG9MC",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "2NE2T",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "ZYAT7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "1XWRH",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "9T2GJ",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "CWQPD",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "5IACR",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "EY1QQ",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "3MMVH",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "V7H3V",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "YEK2K",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "U29PN",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "Q6E9S",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "JDUHY",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "VFBK7",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "6WXTK",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "QUK1A",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "YZWSK",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "QNI8Q",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "PURXU",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "VMX01",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "QLHKO",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "124DA",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "P8DHZ",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "L3Y2U",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "UVGQK",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "8580Y",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "C6MQM",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "0VTQA",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "UPFRB",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "6XDXH",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "42L3C",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "CZNVX",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "1YGO9",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "PIAFF",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "13FT2",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "UJ7DY",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "DKYIR",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "7DMU6",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "K4VR1",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "KC0TQ",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "G3ZQR",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "AI2QL",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "22KFL",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "BM538",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "QDFW9",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "VINO",
+    "id": "1SVNL",
+    "menu": "VEGETARIANO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "WHISKEY",
+    "id": "8OCHX",
+    "menu": "POLLO_A_LA_NARANJA",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "0UIVR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "CB9Z3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "F8DCZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "IQUMX",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "6OKHB",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "M7RB8",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "6CGZP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "6N1GS",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "13888",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "VP0S9",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "K8ZOK",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "2GH7K",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "I72OY",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "CNW8Q",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "KQ0FQ",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "YM1YR",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "A85VL",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "FF1BR",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "CJ27R",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "7AQBT",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "FK9WA",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "VZ2ZL",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "P6YM7",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "7GW3V",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "KHC7F",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "WAV51",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "SY4E3",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "ZIAHI",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "J2IUY",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "QWEL8",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "FV65I",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "9ADGP",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "N3UUP",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "V7AJO",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "GW5AE",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "8D5F6",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "X1OI4",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "EMA98",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "NFT25",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "UGVU9",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "4H91L",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "U0ZVB",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "QYUMS",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "8LH1C",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "51A01",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "QDJGQ",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "AOHER",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "FAP0C",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "GBPCV",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "W7DFI",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "330YU",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "8C4O1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "DXL2Q",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "4NAAB",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "KO4HS",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "5ZNZ1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "1X6RT",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "GJ3OK",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "3SAPX",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "SKSEQ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "B9UP1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "J43ZU",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "PSDFI",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "EVDEY",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "RAHCO",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "Z4GHB",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "30Y4A",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "U1KUB",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "HHWMZ",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "ENC5K",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "N95B4",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "CPMJ9",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "D8Q5P",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "GLDAA",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "RHTLH",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "BCZKH",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "SE2VT",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "FXTH8",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "3HA1R",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "83EJX",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "ADG1B",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "PFCV1",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "G0BUE",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "CG5RU",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "ED5NI",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "0ZVRC",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "MOF26",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "AR3KW",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "492TY",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "YTC9F",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "BMV5Z",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "6YY04",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "D48S0",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "Q9DUF",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "Q3PNL",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "HIT3S",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "3LWWA",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "JJLGT",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "FNJIS",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "3A6MR",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "ZH4CP",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "WY6J1",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "ML36V",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "3IPTU",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "J3HGS",
+    "avion": {
+      "matricula": "HK3005",
+      "modelo": "Boeing 747"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "A8RDK",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "Y8VK3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "M6W9Q",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "MAPRU",
+    "menu": "POLLO_A_LA_NARANJA",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "6C14L",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "KST3S",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "YFRRL",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "CS07Y",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "C66Q6",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "R7NV7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "K22VC",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "I1B6P",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "BOKEM",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "7Q334",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "1O65T",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "KZD68",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "EF1P1",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "ZV0AD",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "ZI67H",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "7JZZA",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "EGKAP",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "1J0P2",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "OPQFM",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "3EHUE",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "11I3F",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "IWUK4",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "HSQU4",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "QMIBW",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "WWW0A",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "W7PM2",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "L5DA8",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "C2Q9W",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "WV5PM",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "3WA3B",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "L0RYI",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "OAHA0",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "8W2G9",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "ZX7QJ",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "CATK4",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "JNVWH",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "Q230A",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "DNH4W",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "HT05I",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "BWBKC",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "ERDEI",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "HFA6K",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "XA8OT",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "F18VK",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "CQXA8",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "TAZ6P",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "G1SN1",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "V7AGE",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "LHWUN",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "8PH30",
+    "avion": {
+      "matricula": "HK2205",
+      "modelo": "Airbus 300"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "OLMRI",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "OPORTO",
+    "id": "BHNPL",
+    "menu": "VEGETARIANO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "VINO",
+    "id": "O5836",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "LAVAD",
+    "menu": "POLLO_A_LA_NARANJA",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "7I746",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "Y7E65",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "IHDKJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "XAKPR",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "SRDYB",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "C18U7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "R6T2T",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "TJA09",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "Z7D6B",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "HFE8A",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "FSHHO",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "4PBSP",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "MCC18",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "EUTQL",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "8PMZG",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "9WUC4",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "WXDQK",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "W1D0T",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "QHH1E",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "FY8YQ",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "RCAUU",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "DW4EE",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "RU8K1",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "E6R11",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "C7QMJ",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "ASUI3",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "JQTTN",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "8H0WU",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "Z9N0N",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "C43J7",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "QC0CW",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "IC4KP",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "VPQ88",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "OMSYM",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "CE3PD",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "OULNK",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "YZMRH",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "ZWQRV",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "XGNVX",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "UML2V",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "PTERH",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "SC79M",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "6WD88",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "WQCV8",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "D4L71",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "FUBEL",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "T9NT2",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "N4IC2",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "YD2UH",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "ZG5P3",
+    "avion": {
+      "matricula": "HK2015",
+      "modelo": "Boeing 737"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "96465",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "DQLDA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "S4PVP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "1WCNJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "3ULVM",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "LLDDR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "NXMSX",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "2C3HO",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "IGBHR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "9QVJC",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "42XPK",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "JZFJ3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "CYI68",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "PK42E",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "YJFQE",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "COKAZ",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "UT61L",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "2HBBO",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "DEEMH",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "TXIHD",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "FC0Q1",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "140W7",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "PLDC3",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "OZ8PA",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "20LSY",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "PFNRX",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "8GXVP",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "1EE2P",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "FEQ5Q",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "YWAJA",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "KYCDJ",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "WH427",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "7V3L1",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "8PR12",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "4JLLW",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "C04E1",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "MD9B0",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "P9RS2",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "UF0MJ",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "C4TDL",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "AYZPB",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "FIKHS",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "7AGFP",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "NFUYS",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "ENGXV",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "WNDCV",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "5OL9W",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "UPZWG",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "G4DS4",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "41Z5F",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "6AJJS",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "GB215",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "SHKU5",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "W40LU",
+    "avion": {
+      "matricula": "HK5050",
+      "modelo": "Airbus 320"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "FBLBR",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "KF0PA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "0H9EP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "2IIHN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "Y4SZ4",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "TIQE7",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "GIQ00",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "T83P2",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "I22LJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "008NZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "MLM9A",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "DHUWA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "G3MX8",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "ZWTG9",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "4AXRH",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "6S1CJ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "SCLXO",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "18WZU",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "86U92",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "licor": "NINGUNO",
+    "id": "TUJAN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "HLQ16",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "QJFSE",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "PHBSZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "licor": "NINGUNO",
+    "id": "CH16F",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "licor": "NINGUNO",
+    "id": "COCLZ",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "licor": "NINGUNO",
+    "id": "49L1K",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "licor": "NINGUNO",
+    "id": "CMUSB",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "licor": "NINGUNO",
+    "id": "UP65G",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "YXRKL",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "5KVRM",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "5PNEJ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "A6Z2B",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "U3YOE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "KF06P",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "KPZCA",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "Q3JTS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "2N9OM",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "1PKBW",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "I0X89",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "V8XEQ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "6FGGE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "R56YZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "UW60E",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "QKAGI",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "HW2IE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "GQKDC",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "PI4E6",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "D1QFO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "648EY",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "K5WSJ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "YE1SZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "YHTZC",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "GKDL5",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "BON40",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "3GP4N",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "EG66P",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "GHIGG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "PJ2RQ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "DPIFZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "OKQ99",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "L6TFE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "V2MHS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "J57I9",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "IWL1L",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "G7FOC",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "SK29L",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "USW5F",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "H73CI",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "E680Q",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "F1D8G",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "ABGQV",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "IN74Z",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "4UA5K",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "6ENHV",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "OPBS9",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "PW1TZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 16,
+    "id": "GE6LS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 16,
+    "id": "8H1DM",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 16,
+    "id": "FF6IU",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 16,
+    "id": "LVL1P",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 16,
+    "id": "I0Q9K",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 16,
+    "id": "5LDRG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 17,
+    "id": "BVIDM",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 17,
+    "id": "4C66P",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 17,
+    "id": "W7ZTU",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 17,
+    "id": "NNWAR",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 17,
+    "id": "FVM2W",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 17,
+    "id": "6MN0J",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 18,
+    "id": "TFG87",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 18,
+    "id": "GIXW6",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 18,
+    "id": "QRHF0",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 18,
+    "id": "CZZFI",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 18,
+    "id": "AI83L",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "18F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 18,
+    "id": "2F11T",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 19,
+    "id": "B6CYX",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 19,
+    "id": "RXQUJ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 19,
+    "id": "7N4JI",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 19,
+    "id": "6OXSC",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 19,
+    "id": "9LTTS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "19F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 19,
+    "id": "8GQDS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 20,
+    "id": "W1JVN",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 20,
+    "id": "B6AH4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 20,
+    "id": "KIJ3J",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 20,
+    "id": "TDMLH",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 20,
+    "id": "2AIAG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "20F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 20,
+    "id": "0TUE9",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 21,
+    "id": "NFJZE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 21,
+    "id": "6X52Z",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 21,
+    "id": "M1ZH3",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 21,
+    "id": "8PJII",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 21,
+    "id": "AAHTA",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "21F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 21,
+    "id": "Z2QEC",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 22,
+    "id": "JAZF6",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 22,
+    "id": "OTX3F",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 22,
+    "id": "SX6JE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 22,
+    "id": "IQ65M",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 22,
+    "id": "7TY7F",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "22F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 22,
+    "id": "WO420",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 23,
+    "id": "TMTBA",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 23,
+    "id": "NVQSY",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 23,
+    "id": "9YSE4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 23,
+    "id": "8BO10",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 23,
+    "id": "48ZYE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "23F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 23,
+    "id": "J3VBX",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 24,
+    "id": "REUGT",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 24,
+    "id": "JFK10",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 24,
+    "id": "JXLCS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 24,
+    "id": "KL6H7",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 24,
+    "id": "3D3VZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "24F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 24,
+    "id": "122NK",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 25,
+    "id": "2S9GN",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 25,
+    "id": "ALKVK",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 25,
+    "id": "KGJWV",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 25,
+    "id": "VLFMZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 25,
+    "id": "N1W7B",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "25F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 25,
+    "id": "G5X1Z",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 26,
+    "id": "TUIUG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 26,
+    "id": "3SQS9",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 26,
+    "id": "HTK3V",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 26,
+    "id": "VTQV2",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 26,
+    "id": "7DKYE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "26F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 26,
+    "id": "NLAFL",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 27,
+    "id": "1VXEK",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 27,
+    "id": "1EEUA",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 27,
+    "id": "BX9EA",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 27,
+    "id": "M5684",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 27,
+    "id": "IQAU7",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "27F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 27,
+    "id": "SL65G",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 28,
+    "id": "9QMQ2",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 28,
+    "id": "K5JYS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 28,
+    "id": "98J5V",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 28,
+    "id": "TM59X",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 28,
+    "id": "JVB3T",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "28F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 28,
+    "id": "K5IM1",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 29,
+    "id": "CU23D",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 29,
+    "id": "N6SJO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 29,
+    "id": "U8LJ7",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 29,
+    "id": "VQT88",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 29,
+    "id": "ABQ6B",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "29F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 29,
+    "id": "ZQQKD",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 30,
+    "id": "SBPEM",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 30,
+    "id": "YDBX8",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 30,
+    "id": "FVDXF",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 30,
+    "id": "F675Y",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 30,
+    "id": "K2C22",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "30F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 30,
+    "id": "6SMW2",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 31,
+    "id": "X7HRT",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 31,
+    "id": "NMEG2",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 31,
+    "id": "RH6JE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 31,
+    "id": "JQC5K",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 31,
+    "id": "KLTEV",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "31F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 31,
+    "id": "Q32SQ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 32,
+    "id": "W3EUU",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 32,
+    "id": "626XL",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 32,
+    "id": "62SI6",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 32,
+    "id": "2VWKG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 32,
+    "id": "AI7N5",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "32F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 32,
+    "id": "FL399",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 33,
+    "id": "HBLFI",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 33,
+    "id": "CJHVL",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 33,
+    "id": "BU8N3",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 33,
+    "id": "8VSOY",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 33,
+    "id": "PRXKS",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "33F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 33,
+    "id": "6EYI0",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 34,
+    "id": "IW900",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 34,
+    "id": "FAQEQ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 34,
+    "id": "17XO7",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 34,
+    "id": "0AE70",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 34,
+    "id": "Z6JM4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "34F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 34,
+    "id": "KXT59",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 35,
+    "id": "GO8NL",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 35,
+    "id": "VRDS4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 35,
+    "id": "1HKPU",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 35,
+    "id": "ULVZ4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 35,
+    "id": "564GB",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "35F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 35,
+    "id": "VQWHQ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 36,
+    "id": "IZ7K3",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 36,
+    "id": "2H5ZJ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 36,
+    "id": "1LV3U",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 36,
+    "id": "9FP7R",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 36,
+    "id": "NSIX3",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "36F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 36,
+    "id": "ACGK0",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 37,
+    "id": "VP69I",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 37,
+    "id": "A130H",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 37,
+    "id": "AOZBV",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 37,
+    "id": "XPOS3",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 37,
+    "id": "U28TE",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "37F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 37,
+    "id": "AV7QG",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 38,
+    "id": "4PCN4",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 38,
+    "id": "AI4K1",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 38,
+    "id": "UL3VO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 38,
+    "id": "L7YHZ",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 38,
+    "id": "77GD7",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "38F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 38,
+    "id": "XYEZO",
+    "avion": {
+      "matricula": "HK2007",
+      "modelo": "Airbus A330"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "W0HZ1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "TZXG6",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "I17F1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "AHPMP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "XJ2LG",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "14J3R",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "AS3FA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "0H1OB",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "N0819",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "QUVEH",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "RG655",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "9YUJ3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "8B0VH",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "HJWVX",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "POEVA",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "D7PSY",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "KRI3N",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "KRY8Q",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "KLC0N",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "G6SRS",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "KWNZ4",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "YO1OO",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "9WB69",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "QNH57",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "41OW3",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "Q1VGI",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "CJ57G",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "HDVON",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "7CYKH",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "8NYCH",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "ELBCU",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "IGZY2",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "BGJ3P",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "XIOEX",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "6E6UK",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "GV7BP",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "7KP7C",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "UMT3E",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "XV8EV",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "8T6LC",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "G8X8J",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "PGV7Z",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "RQRZK",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "W5837",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "C1Z3M",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "IOOGH",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "1WCSF",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "R4N06",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "6YZNN",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "76K68",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "TB2OV",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "A5QC3",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "EPO1V",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "ORC3N",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "32MJB",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "GI6NE",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "UK1ID",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "IHJIB",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "2LMLA",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "EZ9VZ",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "B7JAF",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "3P23L",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "HQ640",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "C5UQW",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "XIUUP",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "SVLJQ",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "HIWLI",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 13,
+    "id": "YLCM0",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 13,
+    "id": "7901T",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "13F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 13,
+    "id": "1W8CE",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "YJM2O",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "F3P1H",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "4JDBT",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 14,
+    "id": "A18DV",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 14,
+    "id": "R34HB",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "14F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 14,
+    "id": "RTN2X",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "DLHM0",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "2AHRW",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "L0KAU",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 15,
+    "id": "AH8O9",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 15,
+    "id": "0TGW8",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "15F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 15,
+    "id": "M5K4N",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 16,
+    "id": "BJL90",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 16,
+    "id": "NALQ1",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 16,
+    "id": "KFQ4G",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 16,
+    "id": "RSQ1J",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 16,
+    "id": "9UJBD",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "16F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 16,
+    "id": "35ZRD",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 17,
+    "id": "XC0UV",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 17,
+    "id": "GAEE8",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 17,
+    "id": "YLQRW",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 17,
+    "id": "XH4JC",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 17,
+    "id": "JPXSG",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "17F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 17,
+    "id": "QR3KH",
+    "avion": {
+      "matricula": "HK5572",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "OPORTO",
+    "id": "IPURY",
+    "menu": "POLLO_A_LA_NARANJA",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "OPORTO",
+    "id": "KAFDA",
+    "menu": "VEGETARIANO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "33WDK",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "J9FEY",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "JWH6O",
+    "menu": "VEGETARIANO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "CSGON",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "GOURI",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "OPORTO",
+    "id": "QI85R",
+    "menu": "FILETE_DE_PESCADO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "I9L80",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "RVVWP",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "9RVFF",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "6L1W3",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "YX4TF",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "QGYD1",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "CM99A",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "licor": "NINGUNO",
+    "id": "P2EGB",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "CNE6L",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "JYFTZ",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "E7NHO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "LB0N9",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "5PBB9",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "54XAV",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "G01FK",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "JO0FV",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "RA818",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "VW5JR",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "4AED2",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "RHXD4",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "SJI2T",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "G7SIU",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "ML440",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "FN1OS",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "N31IJ",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "7AWAW",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "U8C72",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "3PSZ3",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "A7SZM",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 8,
+    "id": "3DLHN",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 8,
+    "id": "LO45Y",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "08F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 8,
+    "id": "D482B",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "YAPXA",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "QM51R",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "BWEW2",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 9,
+    "id": "ALYNE",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 9,
+    "id": "SHQOE",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "09F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 9,
+    "id": "JQJF8",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "KOKQA",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "0KYDU",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "9L9S6",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 10,
+    "id": "V0ANM",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 10,
+    "id": "SRJA1",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "10F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 10,
+    "id": "XZWSY",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "6R0ZA",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "1XD3X",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "PNUEP",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 11,
+    "id": "VSG0V",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 11,
+    "id": "OWS72",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "11F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 11,
+    "id": "9IPY4",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "WYZG1",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "KO4KB",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "Z33CO",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 12,
+    "id": "9X7LG",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 12,
+    "id": "Z9S5L",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "12F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 12,
+    "id": "37TPI",
+    "avion": {
+      "matricula": "HK2008",
+      "modelo": "Airbus A321XLR"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "GEW3Y",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "SKXA6",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "C625J",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "067CN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "TNCOE",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "KANBY",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "86XN2",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "9FC77",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "YEP42",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "TO1QT",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "OLMMR",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "id": "J0S2X",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 3,
+    "id": "IOQKX",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "id": "P01A1",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "SKP3E",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "PKD1W",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "NN1UL",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "0FQPC",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "Z3GVC",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "4MTRO",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "QFCQH",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "4FTXD",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "AMYYV",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "KNB6O",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "9UX96",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "VQ0TP",
+    "avion": {
+      "matricula": "HK8888",
+      "modelo": "Airbus A321"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "OXBZX",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "PDXXL",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "YRDQW",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "01D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 1,
+    "licor": "NINGUNO",
+    "id": "T71IS",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "CGO9B",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "SMMU2",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "LN1JN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "02D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 2,
+    "licor": "NINGUNO",
+    "id": "QN536",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "R34EN",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03B",
+    "columna": "B",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "Q4C9Z",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "1ENPY",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "03D",
+    "columna": "D",
+    "ubicacion": "VENTANA",
+    "fila": 3,
+    "licor": "NINGUNO",
+    "id": "H1NGE",
+    "menu": "INDEFINIDO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "EO5MG",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "VDQFJ",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "4D6EU",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 4,
+    "id": "5OJWA",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 4,
+    "id": "IF2TO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "04F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 4,
+    "id": "H7BK2",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "12RUH",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "28UQQ",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "TVVLS",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 5,
+    "id": "BPEZ4",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 5,
+    "id": "TBB82",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "05F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 5,
+    "id": "QMVNH",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "PA5WB",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "QQJ3R",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "A6XR0",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 6,
+    "id": "VQM7S",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 6,
+    "id": "3UYTO",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "06F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 6,
+    "id": "CB4HZ",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07A",
+    "columna": "A",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "DXMGL",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07B",
+    "columna": "B",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "XHHEG",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07C",
+    "columna": "C",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "QT3IK",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07D",
+    "columna": "D",
+    "ubicacion": "PASILLO",
+    "fila": 7,
+    "id": "Z6HT5",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07E",
+    "columna": "E",
+    "ubicacion": "CENTRAL",
+    "fila": 7,
+    "id": "A1NJ8",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  },
+  {
+    "posicion": "07F",
+    "columna": "F",
+    "ubicacion": "VENTANA",
+    "fila": 7,
+    "id": "6ANOW",
+    "avion": {
+      "matricula": "HK4040",
+      "modelo": "Boeing 777"
+    },
+    "disponible": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "posicion": "01A",
+  "columna": "A",
+  "ubicacion": "VENTANA",
+  "fila": 1,
+  "licor": "VINO",
+  "menu": "FILETE_DE_PESCADO",
+  "strUbicacion": "VENTANA",
+  "avion": {
+    "matricula": "HK2005",
+    "modelo": "Airbus 330"
+  },
+  "disponible": true
+}

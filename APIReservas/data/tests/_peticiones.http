@@ -1,0 +1,248 @@
+// Ver https://www.youtube.com/watch?v=3QLcHjNp-08 para más información
+
+// --------------------- PASAJEROS ---------------------
+
+### Listar los usuarios
+GET http://localhost:4567/usuarios
+
+### Buscar un usuario
+GET http://localhost:4567/usuarios/P0002
+
+### agregar un usuario
+POST http://localhost:4567/usuarios
+Content-Type: application/json
+
+{
+    "identificacion" : "P0090",
+    "nombres": "Marguerite",
+    "apellidos" : "Yourcenar"
+}
+
+### modificar los datos de un usuario
+PUT http://localhost:4567/usuarios/P0005
+content-type: application/json
+
+{
+    "identificacion": "P0005",
+    "nombres": "Mika",
+    "apellidos": "Waltari"
+}
+
+### eliminar un usuario
+DELETE http://localhost:4567/usuarios/P0090
+
+// -------------------- TRAYECTOS ----------------------
+
+### buscar un trayecto
+GET http://localhost:4567/trayectos
+
+### buscar un trayecto
+GET http://localhost:4567/trayectos/origen=Cali&destino=Bucaramanga
+
+### crear un trayecto
+POST http://localhost:4567/trayectos
+Content-Type: application/json
+
+{
+    "origen": "aaa",
+    "destino": "bbb",
+    "costo": 180000,
+    "duracion": "PT50M"
+}
+
+### actualizar un trayecto
+PUT http://localhost:4567/trayectos
+Content-Type: application/json
+
+{
+    "origen": "Villavicencio",
+    "destino": "Leticia",
+    "costo": 180000,
+    "duracion": "PT50M"
+}
+
+### eliminar un trayecto
+DELETE http://localhost:4567/trayectos/origen=aaa&destino=bbb
+
+### eliminar un trayecto
+DELETE http://localhost:4567/trayectos/origen=Cali&destino=Bucaramanga
+
+// -------------------- AVIONES ----------------------
+
+### agregar un avión
+POST http://localhost:4567/aviones
+Content-Type: application/json
+
+{
+    "matricula" : "HK2008",
+    "modelo" : "Airbus A321XLR"
+}
+
+### actualizar los datos de un avión
+PUT http://localhost:4567/aviones/HK2005
+content-type: application/json
+
+{
+    "matricula": "HK2005",
+    "modelo": "Boeing 737"
+}
+
+### actualizar los datos de un avión
+DELETE http://localhost:4567/aviones/HK9999
+
+// -------------------- ASIENTOS ----------------------
+
+### listar las sillas de un avión
+GET http://localhost:4567/sillas
+
+### buscar una silla ejecutiva de un avión
+GET http://localhost:4567/sillas/fila=1&columna=C&avion=HK2005
+
+### buscar una silla sencilla de un avión
+GET http://localhost:4567/sillas/fila=6&columna=C&avion=HK2005
+
+### agregar las sillas de un avión
+POST http://localhost:4567/sillas
+Content-Type: application/json
+
+{
+    "avion": "HK2008",
+    "ejecutivas": 16,
+    "economicas": 42
+}
+
+### actualizar algunos datos de una silla ejecutiva
+PUT http://localhost:4567/sillas
+Content-Type: application/json
+
+{
+    "avion": "HK2005",
+    "fila": 1,
+    "columna": "A",
+    "disponible": true,
+    "menu": "INDEFINIDO",
+    "licor": "NINGUNO"
+}
+
+### Eliminar la silla de un avión
+DELETE http://localhost:4567/sillas/fila=60&columna=C&avion=HK2005
+
+// -------------------- VUELOS ----------------------
+
+### listar vuelos
+GET http://localhost:4567/vuelos
+
+### buscar un vuelo
+GET http://localhost:4567/vuelos/fechaHora=2022-09-12T22:19:25.151863&origen=Manizales&destino=Medellín&avion=HK2005
+
+### agregar vuelos
+POST http://localhost:4567/vuelos
+Content-Type: application/json
+
+{
+    "fechaHora": "2022-10-25T22:19:25.151863",
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "avion": "HK2008"
+}
+
+### cambiar el estado true o false del atributo cancelado de los vuelos
+PUT http://localhost:4567/vuelos
+Content-Type: application/json
+
+{
+    "fechaHora": "2022-10-25T22:19:25.151863",
+    "origen": "Pasto",
+    "destino": "Leticia",
+    "avion": "HK2008",
+    "cancelado": false
+}
+
+### eliminar un vuelo
+DELETE http://localhost:4567/vuelos/fechaHora=2022-09-12T22:19:25.151863&origen=Manizales&destino=Medellín&avion=HK2005
+
+// -------------------- RESERVAS ----------------------
+
+### Listar reservas
+GET http://localhost:4567/reservas
+
+### Buscar una reserva
+GET http://localhost:4567/reservas/fechaHora=2022-09-15T06:33:35.449360&usuario=P0001
+
+### agregar una reserva
+POST http://localhost:4567/reservas
+Content-Type: application/json
+
+{
+    "fechaHora": "2022-10-28T06:33",
+    "usuario": "P0008"
+}
+
+// 2022-10-28T06:33;P0010;false
+
+### cambiar el estado del atributo cancelada de una reserva
+PUT http://localhost:4567/reservas
+Content-Type: application/json
+
+{
+    "fechaHora": "2022-10-28T06:33",
+    "usuario": "P0008",
+    "cancelada": false
+}
+
+### eliminar una reserva
+DELETE http://localhost:4567/reservas/fechaHora=2022-09-15T06:33:35.449360&usuario=P0001
+
+// -------------------- VUELOS DE RESERVAS ----------------------
+
+### Buscar un vuelo de los tantos que puede estar asociados a una reserva
+GET http://localhost:4567/vuelos-reservas/fechaHoraReserva=2022-09-16T12:34:55.097274&usuario=P0202&fechaHoraVuelo=2022-09-12T22:19:25.151863&origen=Manizales&destino=Medellín&avion=HK2005&fila=10&columna=C
+
+### agregar un vuelo a una reserva con silla ejecutiva
+POST http://localhost:4567/vuelos-reservas
+Content-Type: application/json
+
+{
+    "fechaHoraReserva": "2022-10-27T06:33:35.449360",
+    "usuario": "P0007",
+    "fechaHoraVuelo": "2022-09-13T07:03:46.501220",
+    "origen": "Bucaramanga",
+    "destino": "Cali",
+    "avion": "HK3005",
+    "fila": 2,
+    "columna": "D",
+    "menu": "FILETE_DE_PESCADO",
+    "licor": "OPORTO"
+}
+
+### agregar un vuelo a una reserva con silla económica
+POST http://localhost:4567/vuelos-reservas
+Content-Type: application/json
+
+{
+    "fechaHoraReserva": "2022-10-28T06:33",
+    "usuario": "P0008",
+    "fechaHoraVuelo": "2022-09-13T06:57:40.884739",
+    "origen": "Bogotá",
+    "destino": "Santa Marta",
+    "avion": "HK2015",
+    "fila": 9,
+    "columna": "B"
+}
+
+### Cambiar "algo" de un vuelo de los tantos que puede estar asociados a una reserva
+PUT http://localhost:4567/vuelos-reservas/fechaHoraReserva=2022-09-16T12:34:55.097274&usuario=P0202&fechaHoraVuelo=2022-09-12T22:19:25.151863&origen=Manizales&destino=Medellín&avion=HK2005&fila=10&columna=C
+Content-Type: application/json
+// Se puede cambiar todo el vuelo o la silla y si la nueva elegida es ejecutiva, el menu y/o el licor
+
+{
+    "fechaHoraVuelo": "2022-09-13T06:57:40.884739",
+    "origen": "Bogotá",
+    "destino": "Santa Marta",
+    "avion": "HK2015",
+    "fila": 9,
+    "columna": "B"
+}
+
+### Eliminar un vuelo de los tantos que puede estar asociados a una reserva
+DELETE http://localhost:4567/vuelos-reservas/fechaHoraReserva=2023-09-16T12:34:55.097274&usuario=P0202&fechaHoraVuelo=2022-09-12T22:19:25.151863&origen=Manizales&destino=Medellín&avion=HK2005&fila=10&columna=C

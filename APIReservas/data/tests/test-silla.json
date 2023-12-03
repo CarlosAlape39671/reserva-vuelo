@@ -1,0 +1,12 @@
+{
+  "posicion": "07A",
+  "columna": "A",
+  "ubicacion": "VENTANA",
+  "fila": 7,
+  "strUbicacion": "VENTANA",
+  "avion": {
+    "matricula": "HK2005",
+    "modelo": "Airbus 330"
+  },
+  "disponible": true
+}

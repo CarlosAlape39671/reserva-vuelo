@@ -1,0 +1,79 @@
+<section>
+    <div class="title">
+        <h3>Usuarios</h3>
+    </div>
+    <div class="search-container">
+        <input type="text" id="search" [(ngModel)]="searchTerm" (input)="filterTable()" placeholder="Buscar...">
+    </div>
+    <div class="div-content-left">
+        <!-- <div class="table-title">
+            <h3>Usuarios</h3>
+        </div> -->
+        <div class="div-content-table-add">
+            <table class="table-fill">
+                <thead>
+                    <tr>
+                        <th class="text-left">Nombres</th>
+                        <th class="text-left">Apellidos</th>
+                        <th class="text-left">Perfil</th>
+                        <th class="text-left">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody class="table-hover">
+                    @for (usuario of usuariosFiltered.slice(startIndex, startIndex + itemsPerPage); track $index) {
+                        <tr>
+                            <td class="text-left">{{ usuario.nombres }}</td>
+                            <td class="text-left">{{ usuario.apellidos }}</td>
+                            <td class="text-left">{{ usuario.perfil }}</td>
+                            <td class="text-left">
+                              <div class="button-container">
+                                <button class="edit-button" (click)="editButtonClick(usuario)"></button>
+                                <button class="delete-button" (click)="deleteButtonClick(usuario.identificacion)"></button>
+                              </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="pagination-buttons">
+                <button (click)="previousPage()" [disabled]="startIndex === 0">Anterior</button>
+                <button (click)="nextPage()" [disabled]="startIndex + itemsPerPage >= usuarios.length">Siguiente</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="div-content-right">
+
+        <div class="formulario-container">
+            <h2>Registro de Usuario</h2>
+            <form (ngSubmit)="isAdd? addButtonClick() : updateButtonClick()">
+                <label for="nombres">Nombres:</label>
+                <input [(ngModel)]="usuario.nombres" type="text" id="nombres" name="nombres" required>
+
+                <label for="apellidos">Apellidos:</label>
+                <input [(ngModel)]="usuario.apellidos" type="text" id="apellidos" name="apellidos" required>
+
+                <label for="identificacion">Identificación:</label>
+                <input [(ngModel)]="usuario.identificacion" type="text" id="identificacion" name="identificacion" disabled="isAdd" required>
+
+                <label for="password">Contraseña:</label>
+                <input [(ngModel)]="usuario.password" type="password" id="password" name="password" required>
+
+                <label for="perfil">Perfil:</label>
+                <select [(ngModel)]="usuario.perfil" id="perfil" name="perfil" required>
+                    @for (perfil of perfils; track $index) {
+                        <option value={{perfil.value}}>{{perfil.text}}</option>
+                    }
+                </select>
+
+                @if (isAdd) {
+                    <button type="submit" class="add-button"> Aceptar</button>
+                }
+                @else {
+                    <button type="submit" class="edit-button"> Actualizar</button>
+                }
+            </form>
+        </div>
+
+    </div>
+</section>

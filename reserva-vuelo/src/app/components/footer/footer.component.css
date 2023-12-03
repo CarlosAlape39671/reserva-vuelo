@@ -1,0 +1,40 @@
+strong {
+    font-weight: 700;
+}
+
+footer {
+    background: url("https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png") repeat center;
+    display: table;
+    width: 96vw;
+    height: 8rem;
+    text-align: center;
+    width: 100%;
+    font-family: "Arial", sans-serif;
+    font-size: 0.875rem;
+}
+
+.wrapper {
+    display: table-cell;
+    vertical-align: middle;
+    background-image: linear-gradient(to bottom right, #0D052B, #3414A2);
+    padding-top: 23px;
+}
+
+footer small {
+    color: #ccc;
+    letter-spacing: 0.025rem;
+    margin-bottom: 1.5rem;
+    display: block;
+}
+
+.footer-nav a {
+    color: #898989;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    display: inline-block;
+}
+
+.footer-nav a:hover {
+    color: #f26896;
+    transition: color 0.15s ease-in-out;
+}
